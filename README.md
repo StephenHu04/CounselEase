@@ -2,7 +2,7 @@
 
 ## Getting Started
 There are some things that might need to be change when you first download the program. 
-There are some files in the program will be read from, so if needed please change the directory as needed.
+There are some files in the program will be read, so if needed please change the directory as needed.
 ```
 	//reading file called "students.csv" into the vector
 	readStudentData(studentInfoData, "cs20-final-project-StephenHu04/students.csv");
